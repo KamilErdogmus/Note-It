@@ -26,7 +26,7 @@ A simple and user-friendly notes application built with React Vite and TypeScrip
 
 ## Preview
 
-![](Note-it.gif)
+![](/public/Note-it.gif)
 
 ## Deployment
 

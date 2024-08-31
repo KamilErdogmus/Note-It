@@ -38,7 +38,7 @@ body::before {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(/bg.png);
+  background-image: url(/public/Note-it.gif);
   background-position: center;
   background-size: cover;
   opacity: 0.25;
