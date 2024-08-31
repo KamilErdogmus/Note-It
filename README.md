@@ -26,11 +26,11 @@ A simple and user-friendly notes application built with React Vite and TypeScrip
 
 ## Preview
 
-![ ](/Note-it.gif)
+![](Note-it.gif)
 
 ## Deployment
 
-The project is deployed and can be accessed [here](). For the project to run smoothly, please follow the installation steps below to set it up locally.The project may behave differently across different browsers.
+The project is deployed and can be accessed [here](https://note-it-blond.vercel.app/). For the project to run smoothly, please follow the installation steps below to set it up locally.The project may behave differently across different browsers.
 
 ## Installation
 
@@ -39,7 +39,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/KamilErdogmus/Note-It.git
 ```
 
 2.Navigate to the project directory:
